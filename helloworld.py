@@ -1,0 +1,1 @@
+print("hello world, dont lose the hope")
